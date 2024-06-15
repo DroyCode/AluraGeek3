@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="img/catalog-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>My Shop</title>
+</head>
+
+<body>
+    <header>
+        <img src="/img/373743818_10231691747698532_4658594437901185084_n.jpg" class="Catalogue-img" alt="logo-TEC" />
+        MY TEC SHOP
+    </header>
+
+    <main>
+        <section class="products-list">
+            <h1>My Products</h1>
+            <div data-product class="my-products">
+            </div>
+        </section>
+        <section class="add-products">
+            <h1>Add Products</h1>
+            <div data-form class="form">
+                <form class="add-products-form">
+                    <input data-titulo type="text" placeholder="Ingresa el título" class="titulo-producto" required>
+                    <input data-precio type="text" placeholder="Ingresa el precio" class="precio-producto" required>
+                    <input data-imagen type="url" placeholder="Ingresa la URL de la imagen" class="imagen-url-producto"
+                        required>
+                    <div class="buttons">
+                        <button class="send-button" type="submit">Send</button>
+                        <button class="clean-button" type="reset">Delete</button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-h2-img">
+            <img src="/img/373743818_10231691747698532_4658594437901185084_n.jpg" class="img-footer-catalogue"
+                alt="logo-catalogo" />
+            <h2>MY TEC SHOP</h2>
+        </div>
+        <p class="text-footer">Engels Cordones 2024</p>
+    </footer>
+    <script src="./js/main.js" type="module"></script>
+</body>
+
+</html>

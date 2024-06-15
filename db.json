@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "DCH133B",
+      "price": " 150",
+      "image": "https://www.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/DCH133B/DCH133B_1.jpg?resize=530x530",
+      "id": "2"
+    },
+    {
+      "name": "DCF809B",
+      "price": " 150",
+      "image": "https://ar.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCF809B/DCF809B_1.jpg?resize=530x530",
+      "id": "4"
+    },
+    {
+      "name": "DCD996P2",
+      "price": " 175",
+      "image": "https://cca.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCD996P2/DCD996P2_2.jpg?resize=530x530",
+      "id": "5"
+    },
+    {
+      "name": "DCF900P2-B3",
+      "price": " 900",
+      "image": "https://cca.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCF900P2-B3/DCF900P2_K1.jpg?resize=530x530",
+      "id": "6"
+    },
+    {
+      "id": "c2c8",
+      "name": "DCH481B",
+      "price": " 200",
+      "image": "https://cca.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCH481B/DCH481B_1.jpg?resize=530x530"
+    },
+    {
+      "id": "0e37",
+      "name": "DCS491M2",
+      "price": " 550",
+      "image": "https://cca.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCS491M2/DCS491M2_1.jpg?resize=530x530"
+    },
+    {
+      "id": "39a8",
+      "name": "DCE151TD1",
+      "price": "800",
+      "image": "https://cca.dewalt.global/LAG/PRODUCT/IMAGES/HIRES/DCE151TD1/DCE151TD1_K1.jpg?resize=530x530"
+    },
+    {
+      "id": "31f6",
+      "name": "DCB206",
+      "price": "500",
+      "image": "https://www.dewalt.com/NAG/PRODUCT/IMAGES/HIRES/Ecomm_Large-DCB206_1.jpg?resize=530x530"
+    }
+  ]
+}
